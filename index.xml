@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/css" href="css/xmlstyle.css"?>
 
 <SetList> <!-- Root: SetList -->
-    <header>Welcome to our Setlist</header>
+    <head>Welcome to our Setlist</head>
     <Song id="first-song">
         <title>Hungry Like the Wolf</title>
         <artist>Duran Duran</artist>
