@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="css/xmlstyle.css"?>
+
+<SetList> <!-- Root: SetList -->
+    <top>Welcome to our Setlist</top>
+    <Song id="first-song">
+        <title>Hungry Like the Wolf</title>
+        <artist>Duran Duran</artist>
+        <genre>Pop</genre>
+        <year>1982</year>
+    </Song>
+
+    <Song>
+        <title>Through It All</title>
+        <artist>Spoken</artist>
+        <genre>Alternative Metal</genre>
+        <year>2013</year>
+    </Song>
+
+    <Song>
+        <title>Rock You Like a Hurricane</title>
+        <artist>Scorpions</artist>
+        <genre>Rock</genre>
+        <year>1984</year>
+    </Song>
+
+    <Song>
+        <title>How Low</title>
+        <artist>Ludacris</artist>
+        <genre>Hip Hop</genre>
+        <year>2010</year>
+    </Song>
+
+    <Song>
+        <title>Levitate</title>
+        <artist>Hollywood Undead</artist>
+        <genre>Rock</genre>
+        <year>2011</year>
+    </Song>
+
+    <Song>
+        <title>Somebody Told Me</title>
+        <artist>The Killers</artist>
+        <genre>Rock</genre>
+        <year>2004</year>
+    </Song>
+
+    <Song>
+        <title>Midnight Sky</title>
+        <artist>Miley Cyrus</artist>
+        <genre>Pop</genre>
+        <year>2020</year>
+    </Song>
+
+    <Song>
+        <title>Mr. Brightside</title>
+        <artist>The Killers</artist>
+        <genre>Rock</genre>
+        <year>2004</year>
+    </Song>
+
+    <Song>
+        <title>Hot Girl</title>
+        <artist>Megan Thee Stallion</artist>
+        <genre>Hip Hop</genre>
+        <year>2018</year>
+    </Song>
+
+    <Song>
+        <title>Pumped Up Kicks</title>
+        <artist>Foster The People</artist>
+        <genre>Pop</genre>
+        <year>2010</year>
+    </Song>
+
+    <Song>
+        <title>Big and Chunky</title>
+        <artist>will.i.am</artist>
+        <genre>Pop</genre>
+        <year>2008</year>
+    </Song>
+
+    <Song>
+        <title>When You Were Young</title>
+        <artist>The Killers</artist>
+        <genre>Rock</genre>
+        <year>2006</year>
+    </Song>
+
+    <Song>
+        <title>Maps</title>
+        <artist>Maroon 5</artist>
+        <genre>Pop</genre>
+        <year>2014</year>
+    </Song>
+
+    <Song>
+        <title>War Child</title>
+        <artist>Hollywood Undead</artist>
+        <genre>Rock</genre>
+        <year>2015</year>
+    </Song>
+
+    <Song>
+        <title>Disturbia</title>
+        <artist>Rihanna</artist>
+        <genre>Pop</genre>
+        <year>2008</year>
+    </Song>
+
+</SetList> <!-- End of Root -->
