@@ -1,0 +1,46 @@
+SetList{
+    display:block; 
+    background-color:#f5fae3; 
+    width:100%; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+top{
+    display: block;
+    width: 100%;
+    font-size:30px;
+    text-align: center;
+    line-height:2;
+}
+
+Song{
+    display:block;
+    margin-top:20px; 
+    margin-bottom:30px; 
+    margin-left:10%; 
+    margin-right:20%;
+    border-bottom: 1px dashed #000000;
+}
+
+title{
+    display:block; 
+    font-size:25px; 
+    font-weight:bold;
+}
+
+artist, genre, year{
+    display:block; 
+    margin-left:2.5%; 
+    font-size:20px;
+}
+
+artist{
+    line-height:1.2;
+    font-weight:bold;
+}
+
+@media(max-width:700px){
+    top{font-size:20px; line-height:1; margin-top:20px}
+    title, artist, genre, year{font-size:16px;}
+    artist, genre, year{margin-left:0;}
+}
