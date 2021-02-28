@@ -47,5 +47,4 @@ artist{
     top{font-size:30px; line-height:2;}
     artist, genre, year{font-size:20px;}
     title{font-size:25px;}
-    artist, genre, year{margin-left:2.5%;}
 }
