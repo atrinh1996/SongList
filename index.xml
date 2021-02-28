@@ -2,7 +2,6 @@
 <?xml-stylesheet type="text/css" href="css/xmlstyle.css"?>
 
 <SetList> <!-- Root: SetList -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
     <top>Welcome to our Setlist</top>
     <Song>
         <title>Hungry Like the Wolf</title>
