@@ -46,7 +46,7 @@ artist{
     font-weight:bold;
 }
 
-@media(max-width:680px){
+@media(max-width:660px){
     title{font-size:20px;}
     artist, genre, year{margin-left:0;}
     #first-song{margin-top: 160px;}
