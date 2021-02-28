@@ -1,0 +1,51 @@
+SetList{
+    display:block; 
+    background-color:#f5fae3; 
+    width:100%; 
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.2;
+}
+
+top{
+    display: block;
+    width: 100%;
+    font-size:25px;
+    text-align: center;
+    line-height:1;
+    margin-top:20px;
+    padding: auto;
+}
+
+Song{
+    display:block;
+    margin-top:20px; 
+    margin-bottom:30px; 
+    margin-left:10%; 
+    margin-right:20%;
+    border-bottom: 1px dashed #000000;
+}
+
+title{
+    display:block; 
+    font-size:16px; 
+    font-weight:bold;
+}
+
+artist, genre, year{
+    display:block; 
+    font-size:16px;
+}
+
+artist{
+    font-weight:bold;
+    font-style:italic;
+}
+
+
+/* Style for Desktop */
+@media(min-width:900px){
+    top{font-size:30px; line-height:2;}
+    artist, genre, year{font-size:20px;}
+    title{font-size:25px;}
+    artist, genre, year{margin-left:2.5%;}
+}
